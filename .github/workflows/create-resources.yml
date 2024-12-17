@@ -5,7 +5,7 @@ on:
 
 jobs:
   create:
-    runs-on: ubuntu.lastest
+    runs-on: ubuntu-lastest
 
     steps:
     - name: Login to Azure
